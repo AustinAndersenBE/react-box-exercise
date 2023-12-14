@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    style={
+      {
+        "backgroundColor": "blue",
+        "height": "5em",
+        "width": "5em",
+      }
+    }
+  />
+  <button
+    onClick={[Function]}
+  >
+    Remove The Box!
+  </button>
+</div>
+`;
